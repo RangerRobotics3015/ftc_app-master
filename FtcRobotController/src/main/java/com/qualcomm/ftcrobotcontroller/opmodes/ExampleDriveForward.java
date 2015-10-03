@@ -4,7 +4,7 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
 /**
- * Created by ngiancursioiscool on 9/29/2015.
+ * Created by ngiancursioiscool on 9/29/2015. Yeah
  */
 public class ExampleDriveForward extends LinearOpMode {
 
