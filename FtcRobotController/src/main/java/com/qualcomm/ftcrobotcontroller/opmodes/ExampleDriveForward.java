@@ -11,7 +11,7 @@ public class ExampleDriveForward extends LinearOpMode {
     boolean loop=true;
     DcMotor leftMotor;
     DcMotor rightMotor;
-//Thomas Farted
+
     @Override
     public void runOpMode() throws InterruptedException {
         leftMotor = hardwareMap.dcMotor.get("left_drive");
