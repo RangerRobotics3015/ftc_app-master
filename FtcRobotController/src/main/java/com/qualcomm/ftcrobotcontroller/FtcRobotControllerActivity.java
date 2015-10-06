@@ -87,7 +87,7 @@ public class FtcRobotControllerActivity extends Activity {
   protected Context context;
   private Utility utility;
   protected ImageButton buttonMenu;
-
+  
   protected TextView textDeviceName;
   protected TextView textWifiDirectStatus;
   protected TextView textRobotStatus;
