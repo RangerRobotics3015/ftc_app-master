@@ -26,7 +26,7 @@ public class PushBotHardware extends OpMode
     private DcMotorController v_dc_motor_controller_drive;
 
 
-    //newly added information
+    //newly added informati
     //--------------------------------------------------------------------------
     //
     // v_motor_left_drive
